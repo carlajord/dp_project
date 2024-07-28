@@ -1,0 +1,12 @@
+Inlet Pressure = 7239540.0 Pa
+
+Inlet Oil Flow Rate = 158.99 m3/d
+Inlet Water Flow Rate = 100.0 m3/d
+Inlet Gas Flow Rate = 28316.85 m3/d
+
+Diameter = 0.050673 m
+Length = 152.4 m
+Inclination Angle = 30 degrees
+Oil Viscosity = 0.002 kg/m.s
+Gas Viscosity = 0.000015 kg/m.s
+Water Viscosity = 0.001 kg/m.s
